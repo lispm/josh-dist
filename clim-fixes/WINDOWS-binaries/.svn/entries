@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/clim-fixes/WINDOWS-binaries"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="patch-clim-franz"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6167bda1003f1f130cd1f6aa1460787b"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="yank-print-pretty"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6a5e88c76b960af79c195ae05e7a5db3"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="allegro-background"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="78e96baf7cd0d96a81a79684eb9bbe57"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="allegro-gestures"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8185529183d1b75027e5eed37b346ae0"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="input-editing-fix"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d55923bbe402396034ca86b0dc21d475"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="patch-read-token-franz"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="20cdb16ba3f39c21fe0d747267c7b241"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="extended-help"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8af14039530f46ccd89ee03e7b5a2fd5"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="highlighted-presentation-1"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="cd6c6f4bf046b79df5823fa137a40d84"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="erase-output-record"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4eae444f26bb476a57267a5c128775f7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fix-redisplay-bug"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b886592af0174e45da171f79a9e1350d"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="newer-cad-grapher"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6c5e034173b1fba7cc5850e211dcfd12"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fix-postscript"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1d63317630ef23db23dc956cdf05cd53"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:03.000000Z"/>
+</wc-entries>

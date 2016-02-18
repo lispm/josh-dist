@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/joshua/WINDOWS-binaries"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="ltms"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="756d3c4ae6ed10fa9b72c447ccf31c58"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mapfvars"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="40fb22bfaad156f6157f7c0fe2358684"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="readnnwr"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b4e208dbe3caf50a2b3a08fcbc44fc8e"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ptype-defs"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="aaa81d821d88a4fabfaae459b38f0da0"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ptypes-and-commands"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="60a1ba588571de1d3149f73e89f7df92"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="matcher"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="775c08cbfdab81b2263b296facb3ddd4"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mapforms"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6b44e7abe4afe28c9df86d85fc41ad2e"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="supplied"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6a781b3657c3ad41e345ea801e52a415"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tracing"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="db6c9cae6d8db178d61197d0c69a6a2d"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="encapsulations"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="be0395b373243d4f62f725208d4c9107"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rules"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8ee80dd647788b9591cdefc5cec7dfcb"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="predicat"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6fa51e9fddab40f0b7582ecc70e454d8"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="preddefs"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f800eb164a9b8a9a36abb727f18fc0d4"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="clos-heaps"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="eb5620a6be981fc1650cb9ae8ab2206c"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="predprot"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="33d6ce6c8ee71edb94985d4d71120eb6"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="packaged"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1761be5da9ba568b33e9fd1621809f12"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rete"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6353805c64dbe261d46473046e913e90"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="borrowin"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4eaf4bf682844eb7fa3eb8af5c4146be"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="objectmo"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4fd0b80284c90cd6d2635a196bffb79e"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="unificat"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="e9ab54944cedd4503b0ebfb7d600dba7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="discrimi"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="34f51d2a2e77501d84a382555b672892"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cfs"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="457c7f644c7651226ccd972a6ff37bf0"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="predimpl"
+   text-time="2006-01-06T17:02:08.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="db3564d81645a7a4eba0027ed13bbb36"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:08.000000Z"/>
+</wc-entries>

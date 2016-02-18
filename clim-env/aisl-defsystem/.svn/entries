@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/clim-env/aisl-defsystem"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="defsystem.lisp"
+   text-time="2006-01-06T17:02:17.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6d04979a08161f8c8b9b7e317cf6899b"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mcl-patches-for-defsystem.lisp"
+   text-time="2006-01-06T17:02:17.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a6b967b8dcc0ff617c1960052f9bf56b"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="loader.lisp"
+   text-time="2006-01-06T17:02:17.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="53c62b4c8436662d1d8b6cdb5498b3bc"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:17.000000Z"/>
+</wc-entries>

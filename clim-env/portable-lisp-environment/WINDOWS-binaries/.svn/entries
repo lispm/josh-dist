@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/clim-env/portable-lisp-environment/WINDOWS-binaries"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="tool-bar"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f6638ad6be1c92715d700b5088b7226f"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="text-scroll"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="9f18cadeb118168eb46305bd0e4b78cc"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="clos-browser"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="12793d6e75343c2a19ea293e83373377"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="session-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="2d5a165ddae662321de7837899aa27b3"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="printer-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="5c0b31514a1f4530e7300273272fff92"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="editing-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8a27a6e170f9f0b3cec07b5192cb76c9"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="system-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="df9963c21208f830876746e476a84721"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="browser"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="2fa9df79435e68b83c7e5915425a83a3"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="source-compare"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a2ef05af182c33d5af69c36ed0cec981"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="peek"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="dee7c1dcb872a08bec45db7d0a6878e1"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debugger"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="7ae3824ec4f317a7b85490861a4bd6c6"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="listener"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4e0faec802bf0d826ef0be138ca2c83e"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tape-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a381a58377918ce0367376b94f07f352"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="comtabs"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d410e73d8511a21f02d0577d9dbcfc95"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="navigator"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="fdcf69dd47959d1152dbd4ffbd1d5c65"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="activity-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="0cf2cb627230e6a09068e3663920d5b1"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="time"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6d2059b5928c3d508db4a80331d2aac6"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="communication-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="56bfb37d01edecff21ba0e6a8d87f689"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function-browser"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a49e48a139e548494fc6472b83e86ffd"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="inspector"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d7a0a18b429b1b49b65aeeaf3dd669bc"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="documentation-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="35258b14cb9d9f32bc9859b89a340d90"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="selections"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="5cf867ad737ea6e3aeaba82677f569e7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="allegro-patches"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="bd10153fb2777b545bd59d79b86205be"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="unix-tools"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="3a56030461b874c6de3f124e40675876"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="defs"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a02ec97dacecafc9be0d0e5ca227a238"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="macros"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="2678d20adc3586dca56845a2ad28ff6c"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debugging-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="5767a52f8d91671f9f5f9eff6f6fbc4f"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="utility-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="5d15af8acbb620c5c458da7739dc0301"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="types"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1b1ebc248ba1b616b11f2674c91c397a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="comtab-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="42a481a9634ee387ba3abc1938bac427"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pkgdcl"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="145e0e2f647cb63762be34e7bbf5f287"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="lisp-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="3d3f5e550222781c6eed442c7c3e43d5"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="utilities"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="215def86337636c25107579bb2b48360"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="package-browser"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="c594a5112ef5732d2a422038f2ae072e"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="heap"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a287fd24b2d58b30825e209aba9cec76"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="file-commands"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="18ecefc3f950ad9575f1e79116fa95cf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fsedit"
+   text-time="2006-01-06T17:02:14.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4d1985159d543c79f47ae7ae0dd58960"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:14.000000Z"/>
+</wc-entries>

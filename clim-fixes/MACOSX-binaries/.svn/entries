@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/clim-fixes/MACOSX-binaries"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="patch-clim-franz"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f45701ab0bbcd35f7af4dd51ff328885"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="yank-print-pretty"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="9e533be571ede1188eb654664f8f360f"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ruled-tables"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b0a642c79d13306cdb267b4df38aa0cf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="allegro-gestures"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="813180356db012da607315564695875a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="input-editing-fix"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="fb1ac292eb07b5d1219d1039a7429a63"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="patch-read-token-franz"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="411213d6f6645dfc254e57ba107e412b"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="sequence-element-replace-input"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a5b298a9f6b61112c327f757270f05a8"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="extended-help"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d8448350576da91868b06621cf220f29"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="highlighted-presentation-1"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="3046db776bd96fb2b42e64e3f8400e9a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="erase-output-record"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f8ee66c1cd6afb2ceaa31c7d418f14a7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fix-redisplay-bug"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4f2f0a88b63cefd787e2bb154a6a03f7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="newer-cad-grapher"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="aedb48078e823d20f0344a7526f3e657"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fix-postscript"
+   text-time="2006-01-06T17:02:04.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8111576e6f0f6a63620a86712a866b12"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:04.000000Z"/>
+</wc-entries>

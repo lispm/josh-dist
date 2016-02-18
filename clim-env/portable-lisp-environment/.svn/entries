@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/clim-env/portable-lisp-environment"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="dylan-browsers.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="44c950f773aaaef5ce317488ff7d4518"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="utilities.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="e3c2f8d83d7eb2080266f1a17cf829b5"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="compile-env.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8a22dbee60027b3645664f1b0b13ab41"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="start-env.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="e6099146e66a780c4b751a5010bfd7ec"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debugging-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1c0061a8820e87131018b4ea551b7f4a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="activity-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="9201a9218c35d9d9e2b80201e31966f3"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="file-commands.fasl"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4037c8f2dabcf34b68c28876fe12a725"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dylan-patches.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f6d28089a8d021983ff6a443530b0356"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="COPYRIGHT"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="157f8897ff99f770ad28e9865512e184"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="comtab-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="041209ed4e86b4d793afa0c3e2e0bfea"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pkgdcl.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="9f6e0f146662a9e046e606a74a23abc1"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="recompile-env.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4118e385cf3f659e2596f9f0f8da0f93"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="load-env.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="986541ad961cdb92b3c7173db37043ec"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="lisp-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="aa71a937c0f2d6bbc9a070d6f457aaa6"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="package-browser.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="ff78727039636c326811a49a1a7eadf3"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fsedit.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="163208178368b0312ebca9820022e625"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="peek.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="01fb1dbc9ba08fc17cd3fc2718c6b886"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tape-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d07f05e53ef1c6cf73eb4494bf4ff117"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="comtabs.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4df01d0f54e518b362b6d92a8f3c3a57"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dylan-listener.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="155dbc96ec424395938cf8747745e583"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dylan-env.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="145b616e92af0bf492634eaa85616c7d"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="sysdcl.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="c54f8e68f38c155f6836e6808fd818dd"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="communication-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="adfb6e1502755c378b16ead6b8b27edd"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="inspector.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="72ff92ce9bbbf685ef089b527a655e7e"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="selections.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="e9158d6be768fb3395a8a2814cf2ff60"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="documentation-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="c44abdac3d2dbc7196139076be270500"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="allegro-patches.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="367207d468d8bde8325705c4375ee3e7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="heap.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="89517b1bc599dbfe79fd680344be5ff1"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tool-bar.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="7cf5357ef675957279f88974f7e40f13"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="clos-browser.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="0bd285fffd9b109a237a0807c0779d98"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="lispworks-patches.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="440dd102cd0a35b15f0c8af36a409061"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="browser.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8dce4861ccb0a0e3b90df628d11fdae2"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="load-env.fasl"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1860e618ac538125cfe25de5eeca79d4"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="system-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="67d6be705f8677be5af8367da48c3491"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="macros.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a00e8171764054fa95925dfad3ec20d9"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="listener.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="e2f07a6644c752481f57d7633c1ba31a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dfm-browser.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="ba394b20028852c9fb08aa71ef7ad32a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="patches.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="314b4b833888638c39e92872663bcd59"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dylan-debugger.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="bd1eaa1b3a38d76b58b18d75692ece2d"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dylan-libs.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="c3d3dc115da3e599c43aec0c35eb2500"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   name="MCL-binaries"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="mcl-patches.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="bb7f04466c99e056365277fcc4ee142a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="time-original.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="834534f8d885b7190805d555427346d6"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="utility-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b0b58dd9d558431eeb165e37f66b3ab7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="types.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="99311133887f771efc2055c9acddff05"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dylan-types.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="da8c78ef0e62640ce1e894b910aebdd7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="file-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="5e3b6575e539af0fdae0b166c2a8ffbb"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   name="MACOSX-binaries"
+   kind="dir"/>
+<entry
+   name="WINDOWS-binaries"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="text-scroll.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="61aea047f7bb6e3d7d0b0a1bcef73fc2"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="defs.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="0e6fadcc4d4e44d64821d5f41382416b"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="unix-tools.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="2f60acf364abc8adefeb3fa068b39095"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="editing-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="2f763dc97644f272819dd053303602da"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="printer-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="7939160431317596c548e4e882e7cf26"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="session-commands.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f05c1b57ae1e389186a5f1519c4900c6"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debugger.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f29eb385624fbb7bf08acb367e698e59"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="source-compare.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b1d2a4855d0550ec28fe9b07df3d6775"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._selections.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="02501a692ff370d4a8c26ef172ea75ba"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="navigator.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1ebb236cf83bf43dc5d89065e2108701"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="time.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6dfa5e556f4317916a98a518052706d1"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rebinding.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1f992b225aa2642ae79ea1927ad69cbf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="logical-pathname.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="51ac25a732d480e78634da86783d8ce1"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="types-original.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="44d1b42fb194f17a27b7c52fb4519cf7"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function-browser.lisp"
+   text-time="2006-01-06T17:02:16.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1be15bc3efaf121a70d4c80be9e44f53"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:16.000000Z"/>
+</wc-entries>

@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/clim-env/portable-lisp-environment/MCL-binaries"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="._heap.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._tool-bar.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._text-scroll.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._clos-browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._listener.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="communication-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="29a474951708132799957de73d997b7d"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._tape-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="inspector.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4f54990a4169a13bbe3ff44b9b66617a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._debugging-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="documentation-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="c775dd52698d6542d447dcfc27de9603"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="selections.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d8e7f48a312261dd4e687f4a5855e0b6"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="heap.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1d28ac1a109474805f2f71cd76a30659"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tool-bar.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="cd489db2e51ce7cc4f5d5cdcc2c989bd"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._utility-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="clos-browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4507f474c345067bb4ab35c9ccc9a39f"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._pkgdcl.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="system-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="91e99486d92cb31d24681c0270db2428"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d155b1e35f724b64524faca6d504b791"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._inspector.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="macros.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="257e7c84fdc76d476637d6bdb03c9bce"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="listener.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="52bd949778828b2a633f0478e4bf7e7b"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._fsedit.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._defs.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._editing-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._printer-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._session-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._debugger.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="utility-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="8cc3a68530623880ee00b39debbe7540"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="types.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d5b664d4c31af42f50ca7357795a9418"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._time.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="file-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="a70d2baba905df911b9a4409668deb41"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="text-scroll.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="96a0e0a7fcff3bf8132139d683f29722"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._communication-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._comtab-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._types.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="defs.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b382526e5ef36e37f0f55cb377987db8"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="editing-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="baf2c77928fb4d2a5ae5c58c76af6771"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="printer-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="5ecc7bba21b12465612fa09c9ff46f96"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="session-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="4a2e4fab9cafe50c8dcb58d3eb801bf0"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._function-browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debugger.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="90e41f8e8cd6e4a5cf2f24a12934f591"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="source-compare.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b50aa87b3cf332d5b250b2e9b42a4284"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._selections.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._documentation-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._package-browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="navigator.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="092b9cde7520c4f15ffd91a3140b8911"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._file-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="time.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="46377881e664eb9953edd0ee1b36aa28"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._macros.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._comtabs.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function-browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="d165017a98bdc0080dbe7cb1af6ebc83"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._navigator.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="utilities.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="fb85950eadca5a65b454352afa2bde57"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._utilities.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debugging-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="88a2deda6800f803295ed18357cdff97"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="activity-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="b62c6b708f2571b1592a370683d9e5fd"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._system-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._source-compare.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._peek.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="comtab-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1ba01d9f6bd7e35a07f73b76aa867ee9"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pkgdcl.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="2da9dbdfee4487888d20f11d3716055a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="lisp-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="704754d1a2616660ca1d55666413577a"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._activity-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="package-browser.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="1d4c8b666958470e5580efaaa43809e9"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fsedit.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="e5e56532983fc36fe3ed2aff27203ce2"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._lisp-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="peek.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="718897eb5e36e84136f9638c05fe5bf2"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tape-commands.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6c3d03004706a0c95636efdaa8611618"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="comtabs.cfsl"
+   text-time="2006-01-06T17:02:13.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="f6d70aaef6bb5bac94c7dc4da38c9f41"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:13.000000Z"/>
+</wc-entries>

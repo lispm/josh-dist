@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-01-06T16:58:57.444318Z"
+   url="file:///afs/csail/u/h/hes/REPOS/josh-dist/clim-env/aisl-clos/MCL-binaries"
+   last-author="hes"
+   kind="dir"
+   uuid="73f4128a-b309-0410-aaa5-f9d3656b4317"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="mop.cfsl"
+   text-time="2006-01-06T17:02:17.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6ece00dace6827f894f40c757ca649a0"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._aisl-clos-pkg.cfsl"
+   text-time="2006-01-06T17:02:17.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="aisl-clos-pkg.cfsl"
+   text-time="2006-01-06T17:02:17.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="99e0c34bba12b4e1081ff2b9e42945ea"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="._mop.cfsl"
+   text-time="2006-01-06T17:02:17.000000Z"
+   committed-date="2006-01-06T16:58:57.444318Z"
+   checksum="6437244c5bed2b7ffbcadea9b28489bf"
+   last-author="hes"
+   kind="file"
+   prop-time="2006-01-06T17:02:17.000000Z"/>
+</wc-entries>
