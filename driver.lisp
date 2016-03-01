@@ -1,8 +1,8 @@
 
 (in-package :common-lisp-user)
 
-(eval-when (:compile-toplevel :execute :load-toplevel)
-  (proclaim '(optimize (debug 3) (safety 3))))
+;;;(eval-when (:compile-toplevel :execute :load-toplevel)
+;;;  (proclaim '(optimize (debug 3) (safety 3))))
 
 #+mcl(require :appleevent-toolkit)
 

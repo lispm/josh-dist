@@ -26,11 +26,11 @@
 (compile-system 'aisl-clos :recompile t)
 (load-system 'aisl-clos)
 
-(progn
-  #+Lispworks (toggle-source-debugging (y-or-n-p "Include source-debugging info? "))
-  (if (y-or-n-p "Compile in production mode? ")
-    (proclaim '(optimize (speed 3) (safety 1) (debug 1)))
-    (proclaim '(optimize (safety 3) (debug 3)))))
+;;;(progn
+;;;  #+Lispworks (toggle-source-debugging (y-or-n-p "Include source-debugging info? "))
+;;;  (if (y-or-n-p "Compile in production mode? ")
+;;;    (proclaim '(optimize (speed 3) (safety 1) (debug 1)))
+;;;    (proclaim '(optimize (safety 3) (debug 3)))))
 
 #+Lispworks
 (sys::without-warning-on-redefinition

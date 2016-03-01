@@ -38,7 +38,8 @@
 ;;;; Definitions used in compiling the rete network
 
 (in-package "JI")
-(eval-when (compile) (proclaim '(optimize (safety 0))))
+;; I have no idea why this is here
+;; (eval-when (compile) (proclaim '(optimize (safety 0))))
 
 ;;; A Rete network is a left-linear tree.  The leaf nodes are match nodes
 ;;; and the internal nodes are merger nodes.  Nodes may be shared
