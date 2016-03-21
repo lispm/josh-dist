@@ -14,7 +14,8 @@
 				    (list (format nil "~a-binaries"
 						  #+(and unix solaris2) 'solaris
 						  #+(and unix macosx) 'macosx
-						  #+(and unix (not macosx) (not solaris2)) 'linux
+						  #+(and unix linux smp) 'linux-smp
+						  #+(and unix linux (not smp)) 'linux-non-smp
 						  #+MSWindows 'windows))))
 	      (full-pathname (make-pathname :directory my-directory
 					    :host (pathname-host source-pathname)
