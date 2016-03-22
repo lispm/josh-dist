@@ -1,3 +1,4 @@
+;;; -*- Mode: Common-lisp; Package: common-lisp-user -*-
 
 (in-package :common-lisp-user)
 
@@ -7,6 +8,7 @@
 #+mcl(require :appleevent-toolkit)
 
 #+(and allegro macosx) (require :climxm)
+#+(and allegro linux (not smp)) (require :climxm)
 #+(and allegro microsoft) (require :climnt)
 
 (let* ((loading-file *load-truename*)
@@ -21,6 +23,9 @@
   (load (make-pathname :directory `(:absolute ,@directory "xml-parser")
 		       :device (pathname-device loading-file)
 		       :name "xml-parser-defsystem" :type "lisp"))
+  (load (make-pathname :directory `(:absolute ,@directory "sample-xml-rpc-server")
+		       :device (pathname-device loading-file)
+		       :name "defsystem" :type "lisp"))
   (load (make-pathname :directory `(:absolute ,@directory "clim-fixes") 
 		       :device (pathname-device loading-file)
 		       :name "clim-fixes-defsystem" :type "lisp")
@@ -40,14 +45,26 @@
   )
 
 (defun build-it (&key compile recompile)
+  ;; clim-fixes
   (when compile
     (compile-system 'clim-fixes :recompile recompile))
   (load-system 'clim-fixes)
+  ;; clim-environment
   (load-clim-env :compile compile :recompile recompile)
+  ;; joshua
   (when compile
     (compile-system 'joshua :recompile recompile))
   (load-system 'joshua)
+  ;; joshua-developer
   (when compile
     (compile-system 'joshua-developer :recompile recompile))
   (load-system 'joshua-developer)
+  ;; xml-parser
+  (when compile
+    (compile-system 'xml-parser :recompile recompile))
+  (load-system 'xml-parser)
+  ;; xml-rpc-server
+  (when compile
+    (compile-system 'sample-xml-rpc-server :recompile recompile))
+  (load-system 'sample-xml-rpc-server)
   )

@@ -1,5 +1,9 @@
+;;; -*- Mode: Common-lisp; Package: common-lisp-user -*-
 
 (in-package :common-lisp-user)
+
+;;;(eval-when (:compile-toplevel :execute :load-toplevel)
+;;;  (proclaim '(optimize (debug 3) (safety 3))))
 
 #+mcl(require :appleevent-toolkit)
 
@@ -15,6 +19,9 @@
   (load (make-pathname :directory `(:absolute ,@directory)
 		       :device (pathname-device loading-file)
 		       :name "system-class" :type "lisp"))
+  (load (make-pathname :directory `(:absolute ,@directory "xml-parser")
+		       :device (pathname-device loading-file)
+		       :name "xml-parser-defsystem" :type "lisp"))
   (load (make-pathname :directory `(:absolute ,@directory "clim-fixes") 
 		       :device (pathname-device loading-file)
 		       :name "clim-fixes-defsystem" :type "lisp")
