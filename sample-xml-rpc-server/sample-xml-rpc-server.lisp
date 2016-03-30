@@ -1,6 +1,6 @@
 ;;; -*- mode:common-lisp; package: user -*-
 
-(eval-when (:load-toplevel) (require :xml-rpc))
+(eval-when (:load-toplevel :compile-toplevel :execute) (require :xml-rpc))
 
 (in-package :user)
 
