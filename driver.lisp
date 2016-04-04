@@ -44,7 +44,7 @@
         #+mcl :external-format #+mcl :unix)
   )
 
-(defun build-it (&key compile recompile)
+(defun build-it (&key compile recompile xml-server)
   ;; clim-fixes
   (when compile
     (compile-system 'clim-fixes :recompile recompile))
@@ -60,11 +60,12 @@
     (compile-system 'joshua-developer :recompile recompile))
   (load-system 'joshua-developer)
   ;; xml-parser
-  (when compile
-    (compile-system 'xml-parser :recompile recompile))
-  (load-system 'xml-parser)
-  ;; xml-rpc-server
-  (when compile
-    (compile-system 'sample-xml-rpc-server :recompile recompile))
-  (load-system 'sample-xml-rpc-server)
+  (when xml-server
+    (when compile
+      (compile-system 'xml-parser :recompile recompile))
+    (load-system 'xml-parser)
+    ;; xml-rpc-server
+    (when compile
+      (compile-system 'sample-xml-rpc-server :recompile recompile))
+    (load-system 'sample-xml-rpc-server))
   )
