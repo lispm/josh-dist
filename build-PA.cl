@@ -12,14 +12,18 @@
 
 (handler-bind ((fasl-casemode-mismatch #'(lambda (c) (invoke-restart 'excl::fasl-casemode-mismatch-continue)))) 
   (build-it)
+  
+  ;; on pascali I have this in a directory under my home
+  ;; but on my MAC (and in its parallels linux) its under research projects
+  (if (string-equal (sys:getenv "HOSTNAME") "pascali")
+      (load "~/natural-software/code/defsystem.lisp")
+    (load "~/Research-projects/natural-software/code/defsystem.lisp"))
 
-  (load "~/Research-projects/natural-software/code/defsystem.lisp")
+    (load-system 'natsoft)
 
-  (load-system 'natsoft)
-
-  (push "~/my-logical-pathnames.lisp"
-	(logical-pathname-translations-database-pathnames))
-  )
+    (push "~/my-logical-pathnames.lisp"
+	  (logical-pathname-translations-database-pathnames))
+    )
 
 (setq *read-init-files* t)
 
