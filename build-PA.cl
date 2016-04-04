@@ -15,8 +15,9 @@
   
   ;; on pascali I have this in a directory under my home
   ;; but on my MAC (and in its parallels linux) its under research projects
-  (if (eql 'PASCALI (let ((stream (run-shell-command "hostname" :wait nil :output :stream)))'(read stream)))
-      (load "~/natural-software/code/defsystem.lisp")
+  (if (eql 'PASCALI (let ((stream (run-shell-command "hostname" :wait nil :output :stream))) (read stream)))
+      (progn (format t "~%Loading PA code from /natural-software")
+	     (load "~/natural-software/code/defsystem.lisp"))
     (load "~/Research-projects/natural-software/code/defsystem.lisp"))
 
     (load-system 'natsoft)
