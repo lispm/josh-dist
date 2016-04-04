@@ -17,7 +17,7 @@
   ;; but on my MAC (and in its parallels linux) its under research projects
   (let* ((stream (run-shell-command "hostname" :wait nil :output :stream))
 	 (host (read stream)))
-    (format t "~%Host name is ~a host")
+    (format t "~%Host name is ~a" host)
     (if (eql 'PASCALI host)
 	(load "~/natural-software/code/defsystem.lisp")
       (load "~/Research-projects/natural-software/code/defsystem.lisp")))
