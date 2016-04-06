@@ -6,7 +6,6 @@
 (eval-when (:compile-toplevel :execute :load-toplevel)
   (proclaim '(optimize (debug 3) (safety 3) (speed 1) (space 1))))
 
-(load "~/josh-dist/find-lisp-listener")
 
 (require :climxm)
 
