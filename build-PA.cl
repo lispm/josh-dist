@@ -18,15 +18,18 @@
   (let* ((stream (run-shell-command "hostname" :wait nil :output :stream))
 	 (host (read stream)))
     (format t "~%Host name is ~a" host)
-    (if (eql 'PASCALI host)
-	(load "~/natural-software/code/defsystem.lisp")
-      (load "~/Research-projects/natural-software/code/defsystem.lisp")))
-
+    (cond
+     ((eql 'PASCALI host)
+      (load "~/natural-software/code/defsystem.lisp")
+      (push "~/natural-software/my-logical-pathnames.lisp"
+	    (logical-pathname-translations-database-pathnames)))
+     (t
+      (load "~/Research-projects/natural-software/code/defsystem.lisp")
+      
+      (push "~/my-logical-pathnames.lisp"
+	    (logical-pathname-translations-database-pathnames))))
     (load-system 'natsoft)
-
-    (push "~/my-logical-pathnames.lisp"
-	  (logical-pathname-translations-database-pathnames))
-    )
+    ))
 
 (setq *read-init-files* t)
 
