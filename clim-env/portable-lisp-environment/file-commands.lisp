@@ -394,6 +394,9 @@
 	  (loop
 	    (let ((ch (read-char fs nil eof-marker)))
 	      (cond ((eql ch eof-marker)
+		     (unless (zerop  (fill-pointer line-buffer))
+		       (write-string line-buffer stream)
+		       (write-char #\newline stream))
 		     (return-from show-file))
 		    ((member ch '(#\Newline #-Genera #\Return))
 		     (write-string line-buffer stream)
